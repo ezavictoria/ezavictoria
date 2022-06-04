@@ -16,7 +16,8 @@
   <img align="center" alt="Eza-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Eza-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Eza-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
-   
+  <img align="right" alt="Eza-gif" height="100" width="100" src="https://i.postimg.cc/GtrXQ0w8/download20220605214831.png">
+</div>
 </div> 
 
 ##
@@ -28,4 +29,4 @@
  
 </div>  
 
-  
+![Snake animation](https://github.com/ezavictoria/ezavictoria/blob/output/github-contribution-grid-snake.svg) 
