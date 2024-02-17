@@ -1,12 +1,12 @@
 ### PT:
 Oii, eu sou Eza Victória Amaral!!👋
 - 💻 Sou Engenheira de Qualidade de Software
-- 🌱 Tenho experiência em Cypress, TestComplete e Postman
+- 📖 Sou graduada em Sistemas de Informação e tenho MBA em Gestão da Qualidade na Tecnologia da Informação
 
 ### EN:
 Hi, I'm Eza Victória Amaral!!!👋
 - 💻 I'm a QA Engineer
-- 🌱 I have experience in Cypress, TestComplete and Postman
+- 📖 I have a degree in Information Systems and an MBA in Information Technology Quality Management
 
 ##
   
